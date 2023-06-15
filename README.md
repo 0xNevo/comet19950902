@@ -1,20 +1,5 @@
-<p><summary> Intro </summary>
-
-### <div align="center">Full-stack | Blockchain Engineer 👨‍💻 working remotely since 2016 🚀</div>  
-
-  - 😎 Interested in contributing expertise in web, unity and blockchain development
-  - 👯 I hope someday collaborate with on Innovative Projects
-  - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-  - 📚 Love reading books on personal development & financial literacy.
-  - ⚡ Quotes: What you do today can improve all of your tomorrows.
-    
-</p>  
-
-<br/>  
-
 <div align="center" dir="auto">
   <h1 align="center" dir="auto">
-          LightFury<br>
       Web &amp DApp Developer
   </h1>
  
