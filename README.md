@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://app.daily.dev/comet19950902"><img src="https://api.daily.dev/devcards/98803cb75f084a81968e1eccafacbd00.png?r=8jb" width="400" alt="Peter Hiro's Dev Card"/></a>
+<a href="https://app.daily.dev/comet19950902"><img src="https://api.daily.dev/devcards/98803cb75f084a81968e1eccafacbd00.png?r=sg4" width="400" alt="Peter Hiro's Dev Card"/></a>
 </p>
 
 <br/>
