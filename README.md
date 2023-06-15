@@ -1,6 +1,6 @@
 <p><summary> Intro </summary>
 
-### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">Full-stack | Blockchain Engineer 👨‍💻 working remotely since 2016 🚀</div>  
 
   - 😎 Interested in contributing expertise in web, unity and blockchain development
   - 👯 I hope someday collaborate with on Innovative Projects
