@@ -1,12 +1,5 @@
 <div align="center" dir="auto">
-  <h1 align="center" dir="auto">
-      Web &amp DApp Developer
-  </h1>
- 
-
 <!-- /* ![](./asserts/lightfury.gif) */ -->
-
-
 </div>
 
 <p align="center">
@@ -14,11 +7,6 @@
   <img src="https://api.daily.dev/devcards/98803cb75f084a81968e1eccafacbd00.png?r=u4r" width="400" alt="Peter Hiro's Dev Card"/>
 </a>
 </p>
-
-
-
-
-<br/>
 
 <br/>
 
