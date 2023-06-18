@@ -30,7 +30,7 @@
     </td>  
     <td>
       <a href="https://redux.js.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" height="50" >
       </a>
     </td>  
     <td>
