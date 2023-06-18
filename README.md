@@ -123,77 +123,84 @@
 
 ### Backend  
 <table border="1" align="center">
-<tr>  
-  <td>
-    <a href="https://nodejs.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-    </a> 
-  </td>
-  <td>
-    <a href="https://expressjs.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-    </a>
-  </td>
-  <td>
-    <a href="https://php.net/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://codeigniter.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />
-    </a> 
-  </td> 
-  <td>
-    <a href="https://laravel.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
-    </a> 
-  </td> 
-  <td>
-    <a href="https://wordpress.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
-    </a>  
-  </td>
-  <td>
-    <a href="https://csharp-station.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" height="50" >
-    </a>  
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://mysql.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://postgresql.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://mongodb.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-    </a> 
-  </td> 
-  <td>
-    <a href="https://mariadb.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
-    </a>  
-  </td>
-</tr>
+  <tr>  
+    <td>
+      <a href="https://nodejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+      </a> 
+    </td>
+    <td>
+      <a href="https://expressjs.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+      </a>
+    </td>
+    <td>
+      <a href="https://php.net/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://codeigniter.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />
+      </a> 
+    </td> 
+    <td>
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
+      </a> 
+    </td> 
+    <td>
+      <a href="https://wordpress.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://csharp-station.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" height="50" >
+      </a>  
+    </td>
+  </tr>
+</table>
+</br>
+
+----
+### Database
+<table border="1" align="center">
+  <tr>
+    <td>
+      <a href="https://mysql.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://postgresql.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://mongodb.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://firebase.google.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+      </a> 
+    </td> 
+    <td>
+      <a href="https://mariadb.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+      </a>  
+    </td>
+  </tr>
 </table>
 
+<br/>  
 ----
 
 ### Blockchain  
@@ -237,40 +244,6 @@
   </tr>
   </table>
 </div>
-
-<br/>  
-
-----
-### Database
-<table border="1" align="center">
-  <tr>
-    <td>
-      <a href="https://mysql.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-      </a>  
-    </td>
-    <td>
-      <a href="https://postgresql.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-      </a>  
-    </td>
-    <td>
-      <a href="https://mongodb.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-      </a>  
-    </td>
-    <td>
-      <a href="https://firebase.google.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-      </a> 
-    </td> 
-    <td>
-      <a href="https://mariadb.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
-      </a>  
-    </td>
-  </tr>
-</table>
 
 <br/>  
 
