@@ -47,7 +47,21 @@
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="50" >
       </a>
+    </td>     
+    <td>
+      <a href="https://mui.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
     </td>  
+    <td>
+      <a href="https://d3js.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.chartjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
+    </td>  
+  </tr>
+  <tr>    
     <td>
       <a href="https://www.javascript.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
@@ -58,8 +72,6 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" >
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
@@ -110,7 +122,8 @@
     </td>  
     <td>
       <a href="https://d3js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> </td>  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> 
+    </td>  
     <td>
       <a href="https://www.chartjs.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
