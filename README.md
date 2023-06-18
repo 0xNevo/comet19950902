@@ -68,6 +68,11 @@
       <a href="https://www.javascript.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
       </a>
+    </td>      
+    <td>
+      <a href="https://jquery.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" height="50" >
+      </a>
     </td>  
     <td>
       <a href="https://www.typescriptlang.org/" target="_blank">
