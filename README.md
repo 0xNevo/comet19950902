@@ -120,7 +120,7 @@
     </a>
   </td>
   <td>
-    <a href="https://www.php.net/" target="_blank">
+    <a href="https://php.net/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
     </a>  
   </td>
@@ -130,33 +130,28 @@
     </a> 
   </td> 
   <td>
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
+    </a> 
+  </td> 
+  <td>
     <a href="https://wordpress.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
     </a>  
   </td>
   <td>
-    <a href="https://www.mongodb.com/" target="_blank">
+    <a href="https://mongodb.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
     </a>  
-  </td>
-  <td>
-    <a href="https://www.nginx.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-    </a>  
-  </td>
-  <td>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-    </a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://www.mysql.com/" target="_blank">
+    <a href="https://mysql.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
     </a>  
   <td>
-    <a href="https://www.postgresql.org/" target="_blank">
+    <a href="https://postgresql.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
     </a>  
   <td>
@@ -175,10 +170,7 @@
     <a href="https://mariadb.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
     </a>  
-  <td>
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-    </a>  
+  </td>
 </tr>
 <table>
 
@@ -239,6 +231,16 @@
 ### Others  
 <table border="1" align="center">
   <tr>
+    <td>
+      <a href="https://nginx.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+      </a>  
+    </td>
+    <td>
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+      </a>
+    </td>
     <td>
       <a href="https://docker.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" height="50" >
