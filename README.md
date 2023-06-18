@@ -147,7 +147,7 @@
     </td>
     <td>
       <a href="https://codeigniter.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/codeigniter/codeigniter-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/codeigniter/codeigniter-plain.svg" height="50" >
       </a> 
     </td> 
     <td>
@@ -189,7 +189,7 @@
     </td>
     <td>
       <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" height="50" >
       </a> 
     </td> 
     <td>
