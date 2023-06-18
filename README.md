@@ -132,7 +132,7 @@
     </td>
     <td>
       <a href="https://graphql.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" height="50" >
       </a>
     </td>
     <td>
