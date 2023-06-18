@@ -35,7 +35,7 @@
     </td>  
     <td>
       <a href="https://nuxtjs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/neutjs/nuxtjs-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nuxttjs/nuxtjs-original.svg" height="50" >
       </a>
     </td>  
     <td>
@@ -62,7 +62,7 @@
   <tr>
     <td>
       <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/css/css-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
       </a>
     </td>  
     <td>
