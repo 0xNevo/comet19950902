@@ -2,6 +2,8 @@
 <!-- /* ![](./asserts/lightfury.gif) */ -->
 </div>
 
+<img width="100%" src="https://camo.githubusercontent.com/13c7ba5bf2a6bd0394ea9706f92a3ad4c4e01c6b6b33e7c50ae96e783f269a6c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=3da37a&amp;height=120&amp;section=header" style="max-width: 100%;">
+
 <p align="center">
 <a href="https://app.daily.dev/comet19950902"><img src="https://api.daily.dev/devcards/98803cb75f084a81968e1eccafacbd00.png?r=sg4" width="400" alt="Peter Hiro's Dev Card"/></a>
 </p>
