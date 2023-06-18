@@ -146,7 +146,7 @@
   </td> 
   <td>
     <a href="https://laravel.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" height="50" >
+      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
     </a> 
   </td> 
   <td>
@@ -263,7 +263,7 @@
     </td>
     <td>
       <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" height="50" >
       </a> 
     </td>
     <td>
