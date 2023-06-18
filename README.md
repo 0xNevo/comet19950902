@@ -20,15 +20,18 @@
   <tr>
     <td>
       <a href="https://reactjs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+        <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="50" >
+      </a>
     </td>  
     <td>
       <a href="https://vuejs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a> 
+        <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" height="50" >
+      </a>
     </td>  
     <td>
       <a href="https://redux.js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="50" >
+      </a>
     </td>  
     <td>
       <a href="https://nuxtjs.org/" target="_blank">
@@ -200,7 +203,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.rust-lang.org/" target="_blank">
+      <a href="https://rust-lang.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-original.svg" alt="Rust" height="50" />
       </a> 
     </td>
