@@ -240,7 +240,7 @@
 <table border="1" align="center">
   <tr>
     <td>
-      <a href="https://www.docker.com/" target="_blank">
+      <a href="https://docker.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-plain.svg" height="50" >
       </a> 
     </td>
