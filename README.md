@@ -157,7 +157,7 @@
     </td> 
     <td>
       <a href="https://wordpress.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-plain.svg" height="50" >
       </a>  
     </td>
     <td>
