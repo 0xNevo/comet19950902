@@ -215,22 +215,22 @@
   <tr>
     <td>
       <a href="https://www.android.com/intl/en_uk/ target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" height="50" />
       </a> 
     </td>
     <td>
       <a href="https://developer.android.com/studio" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-plain.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-plain.svg" height="50" />
       </a> 
     </td>
     <td>
       <a href="https://flutter.dev/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-plain.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-plain.svg" height="50" />
       </a> 
     </td>
     <td>
       <a href="https://kotlinlang.org/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-plain.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-plain.svg" height="50" />
       </a> 
     </td>
   </tr>
@@ -262,7 +262,7 @@
     </td>
     <td>
       <a href="https://soliditylang.org/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" height="50" />
       </a>
     </td>
     <td>
