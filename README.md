@@ -150,22 +150,22 @@
     <a href="https://mysql.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
     </a>  
+  </td>
   <td>
     <a href="https://postgresql.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
     </a>  
+  </td>
   <td>
     <a href="https://webpack.js.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
     </a>  
-  <td>
-    <a href="https://graphql.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-    </a>  
+  </td>
   <td>
     <a href="https://firebase.google.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-    </a>  
+    </a> 
+  </td> 
   <td>
     <a href="https://mariadb.org/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
