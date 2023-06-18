@@ -107,11 +107,6 @@
       </a>
     </td>  
     <td>
-      <a href="https://www.electronjs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" height="50" >
-      </a>
-    </td>  
-    <td>
       <a href="https://chakra-ui.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a> 
     </td>  
@@ -260,6 +255,11 @@
 <table border="1" align="center">
   <tr>
     <td>
+      <a href="https://www.electronjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
       <a href="https://webpack.js.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" height="50" >
       </a>  
@@ -268,11 +268,6 @@
       <a href="https://nginx.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" height="50" >
       </a>  
-    </td>
-    <td>
-      <a href="https://gnu.org/software/bash/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" height="50" >
-      </a>
     </td>
     <td>
       <a href="https://docker.com/" target="_blank">
