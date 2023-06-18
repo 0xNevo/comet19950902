@@ -14,9 +14,7 @@
 
 ###  <h1 align="center"> <a href="https://devicon.dev/"> My Skill Set </a></h1>
 
-----
-
-### Frontend  
+### Fullstack
 <table border="1" align="center">
   <tr>
     <td>
@@ -120,9 +118,8 @@
   </tr>
 <table>
 
-----
+<br/>
 
-### Backend  
 <table border="1" align="center">
   <tr>  
     <td>
