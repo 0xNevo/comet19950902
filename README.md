@@ -139,6 +139,11 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
     </a>  
   </td>
+  <td>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-plain.svg" height="50" >
+    </a>  
+  </td>
 </tr>
 <tr>
   <td>
