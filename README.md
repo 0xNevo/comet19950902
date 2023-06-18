@@ -139,11 +139,6 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
     </a>  
   </td>
-  <td>
-    <a href="https://mongodb.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-    </a>  
-  </td>
 </tr>
 <tr>
   <td>
@@ -157,8 +152,8 @@
     </a>  
   </td>
   <td>
-    <a href="https://webpack.js.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
+    <a href="https://mongodb.com/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
     </a>  
   </td>
   <td>
@@ -231,6 +226,11 @@
 ### Others  
 <table border="1" align="center">
   <tr>
+    <td>
+      <a href="https://webpack.js.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
+      </a>  
+    </td>
     <td>
       <a href="https://nginx.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
