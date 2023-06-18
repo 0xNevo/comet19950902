@@ -249,6 +249,11 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" height="50" >
       </a> 
     </td>
+    <td>
+      <a href="https://github.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" height="50" >
+      </a> 
+    </td>
   </tr>
   </table>
 </div>
