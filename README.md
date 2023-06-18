@@ -241,12 +241,12 @@
   <tr>
     <td>
       <a href="https://docker.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" height="50" >
       </a> 
     </td>
     <td>
       <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/tree/master/icons/kubernetes/kubernetes-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" height="50" >
       </a> 
     </td>
   </tr>
