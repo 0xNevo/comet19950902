@@ -45,8 +45,9 @@
       </a>
     </td>  
     <td>
-      <a href="https://mui.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
+      <a href="https://threejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-plain.svg" alt="solidity" height="50" />
+      </a>
     </td>  
     <td>
       <a href="https://d3js.org/" target="_blank">
@@ -100,6 +101,11 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" >
       </a>
     </td>
+    <td>
+      <a href="https://mui.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-original.svg" height="50" >
+      </a>
+    </td>  
     <td>
       <a href="https://www.electronjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" height="50" >
