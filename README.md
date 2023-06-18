@@ -200,11 +200,6 @@
       </a> 
     </td>
     <td>
-      <a href="https://go.dev/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-      </a>
-    </td>
-    <td>
       <a href="https://trufflesuite.com/" target="_blank">
         <img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" height="50" >
       </a>
