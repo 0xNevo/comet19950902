@@ -223,17 +223,17 @@
   <tr>
     <td>
       <a href="https://webpack.js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-plain.svg" height="50" >
       </a>  
     </td>
     <td>
       <a href="https://nginx.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-plain.svg" height="50" >
       </a>  
     </td>
     <td>
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+      <a href="https://gnu.org/software/bash/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" height="50" >
       </a>
     </td>
     <td>
