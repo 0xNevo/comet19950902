@@ -251,6 +251,16 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" height="50" >
       </a> 
     </td>
+    <td>
+      <a href="https://gitlab.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" height="50" >
+      </a> 
+    </td>
+    <td>
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" height="50" >
+      </a> 
+    </td>
   </tr>
   </table>
 </div>
