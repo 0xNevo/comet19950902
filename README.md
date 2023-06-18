@@ -46,7 +46,7 @@
     </td>  
     <td>
       <a href="https://threejs.org/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-plain.svg" alt="solidity" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
       </a>
     </td>  
     <td>
