@@ -131,9 +131,14 @@
       </a> 
     </td>
     <td>
-      <a href="https://expressjs.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+      <a href="https://graphql.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-original.svg" height="50" >
       </a>
+    </td>
+    <td>
+      <a href="https://csharp-station.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" height="50" >
+      </a>  
     </td>
     <td>
       <a href="https://php.net/" target="_blank">
@@ -158,11 +163,6 @@
     <td>
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
-      </a>  
-    </td>
-    <td>
-      <a href="https://csharp-station.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" height="50" >
       </a>  
     </td>
   </tr>
