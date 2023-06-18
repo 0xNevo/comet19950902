@@ -62,7 +62,7 @@
     </td>
     <td>
       <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-original.svg" alt="Bootstrap" height="50" /></a> 
     </td>  
     <td>
       <a href="https://www.electronjs.org/" target="_blank">
@@ -131,7 +131,7 @@
   </td> 
   <td>
     <a href="https://laravel.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
+      <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" height="50" >
     </a> 
   </td> 
   <td>
@@ -141,7 +141,7 @@
   </td>
   <td>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-plain.svg" height="50" >
+      <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
     </a>  
   </td>
 </tr>
@@ -196,12 +196,12 @@
     </td>
     <td>
       <a href="https://soliditylang.org/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-plain.svg" alt="solidity" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" alt="solidity" height="50" />
       </a>
     </td>
     <td>
       <a href="https://www.rust-lang.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-original.svg" alt="Rust" height="50" />
       </a> 
     </td>
     <td>
@@ -228,7 +228,7 @@
   <tr>
     <td>
       <a href="https://webpack.js.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" height="50" >
       </a>  
     </td>
     <td>
@@ -238,17 +238,17 @@
     </td>
     <td>
       <a href="https://gnu.org/software/bash/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" height="50" >
       </a>
     </td>
     <td>
       <a href="https://docker.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" height="50" >
       </a> 
     </td>
     <td>
       <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-original.svg" height="50" >
       </a> 
     </td>
     <td>
