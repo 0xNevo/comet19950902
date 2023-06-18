@@ -142,12 +142,12 @@
     </td>
     <td>
       <a href="https://php.net/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" height="50" >
       </a>  
     </td>
     <td>
       <a href="https://codeigniter.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/codeigniter/codeigniter-original.svg" height="50" >
       </a> 
     </td> 
     <td>
@@ -157,7 +157,7 @@
     </td> 
     <td>
       <a href="https://wordpress.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" height="50" >
       </a>  
     </td>
     <td>
@@ -174,22 +174,22 @@
   <tr>
     <td>
       <a href="https://mysql.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" height="50" >
       </a>  
     </td>
     <td>
       <a href="https://postgresql.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" height="50" >
       </a>  
     </td>
     <td>
       <a href="https://mongodb.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" height="50" >
       </a>  
     </td>
     <td>
       <a href="https://firebase.google.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-original.svg" height="50" >
       </a> 
     </td> 
     <td>
