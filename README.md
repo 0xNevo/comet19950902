@@ -35,7 +35,7 @@
     </td>  
     <td>
       <a href="https://nuxtjs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/nuxttjs/nuxtjs-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" height="50" >
       </a>
     </td>  
     <td>
@@ -95,7 +95,7 @@
     </td>  
     <td>
       <a href="https://www.tailwindcss.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" >
       </a>
     </td>
   </tr>
