@@ -162,7 +162,7 @@
     </td>
     <td>
       <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-plain.svg" height="50" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
       </a>  
     </td>
   </tr>
