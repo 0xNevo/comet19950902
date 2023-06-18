@@ -113,20 +113,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://mui.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-    </td>  
-    <td>
       <a href="https://www.openui5.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="50" /></a>
-    </td>  
-    <td>
-      <a href="https://d3js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> 
-    </td>  
-    <td>
-      <a href="https://www.chartjs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
     </td>  
   </tr>
 <table>
