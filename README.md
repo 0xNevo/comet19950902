@@ -257,14 +257,16 @@
         <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="50" >
       </a> 
     </td>
+    <!--
     <td>
       <a href="https://pancakeswap.finance/" target="_blank">
         <img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" height="50" >
       </a> 
     </td>
+    -->
     <td>
       <a href="https://soliditylang.org/" target="_blank">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" height="50" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-original.svg" height="50">
       </a>
     </td>
     <td>
