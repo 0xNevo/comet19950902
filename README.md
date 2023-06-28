@@ -208,7 +208,7 @@
 
 ----
 
-~~~
+{:/comment}
 
 ### Mobile  
 <table border="1" align="center">
