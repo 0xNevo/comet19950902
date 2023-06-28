@@ -208,9 +208,10 @@
 
 ----
 
+```
 
 ### Mobile  
-<!-- <table border="1" align="center">
+<table border="1" align="center">
   <tr>
     <td>
       <a href="https://www.android.com/intl/en_uk/ target="_blank">
@@ -238,9 +239,10 @@
 
 <br/>  
 
--->
+
 ----
 
+```
 
 ### Blockchain  
 <table border="1" align="center">
