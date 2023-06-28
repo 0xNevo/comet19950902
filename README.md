@@ -298,11 +298,13 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" height="50" >
       </a>
     </td>  
+    <!--
     <td>
       <a href="https://webpack.js.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" height="50" >
       </a>  
     </td>
+    -->
     <td>
       <a href="https://nginx.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" height="50" >
@@ -323,11 +325,13 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" height="50" >
       </a> 
     </td>
+    <!--
     <td>
       <a href="https://gitlab.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" height="50" >
       </a> 
     </td>
+    -->
     <td>
       <a href="https://azure.microsoft.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" height="50" >
