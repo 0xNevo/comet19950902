@@ -2,17 +2,6 @@
 <!-- /* ![](./asserts/lightfury.gif) */ -->
 </div>
 
-
-<p align="center">
-<a href="https://app.daily.dev/comet19950902"><img src="https://api.daily.dev/devcards/98803cb75f084a81968e1eccafacbd00.png?r=sg4" width="400" alt="Peter Hiro's Dev Card"/></a>
-</p>
-
-<br/>
-
-<br/>
-
-<br/>
-
 ###  <h1 align="center"> <a href="https://devicon.dev/"> My Skill Set </a></h1>
 
 ### Fullstack
